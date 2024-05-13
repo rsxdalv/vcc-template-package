@@ -1,12 +1,12 @@
 {
   "name": "com.vrchat.demo-template-edited",
   "displayName": "VRChat Example Package",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "unity": "2019.4",
   "description": "Simple Package for testing Automation",
   "vrchatVersion": "2022.1.1",
   "author": {
-    "name": "Momo the Monster",
+    "name": "Momo the Monster + RSXDALV",
     "email": "momodmonster@gmail.com",
     "url": "https://mmmlabs.com"
   }
